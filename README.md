@@ -26,7 +26,7 @@ vacunacion_pct:          | % de cobertura de vacunación
 
 1. Clona el repositorio:
 
-git clone [url]
+git clone https://github.com/silviadanielam/Taller_Modulo1_IA_DS.git
 
 2. Instala dependecias:
 
